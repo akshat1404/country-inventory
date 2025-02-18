@@ -1,5 +1,5 @@
 {
-  "name": "country-inventory",
+  "name": "country_inventory",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
